@@ -1,6 +1,3 @@
-#  Before withdraw starts, validate PIN number
-#  For withdraw to be success,the balance should be sufficient
-
 pin=1234
 accbal = 10000.00
 
